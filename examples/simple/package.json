@@ -1,0 +1,23 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "falcor-firebase": "file:../../"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-3": "^6.11.0",
+    "babelify": "^7.3.0"
+  }
+}
