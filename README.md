@@ -1,4 +1,6 @@
 # Falcor Firebase
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Quramy/falcor-firebase.svg)](https://greenkeeper.io/)
 This provides a Falcor data source from your Firebase realtime database.
 
 ## Install
